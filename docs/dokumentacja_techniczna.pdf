@@ -1,0 +1,44 @@
+Dokumentacja Techniczna
+Tytuł projektu: Steganografia i kryptoanaliza steganograficzna - Narzędzia do ukrywania danych w obrazach i dźwiękach
+
+Opis projektu:
+
+Projekt ma na celu stworzenie narzędzi do ukrywania danych w obrazach i dźwiękach przy użyciu technik steganografii. Składa się z modułów odpowiedzialnych za obsługę steganografii w plikach dźwiękowych (audio_steganography.py) i obrazowych (image_steganography.py), oraz głównego modułu (main.py), który zarządza interakcją z użytkownikiem.
+
+Spis Treści
+Wstęp
+Struktura Projektu
+Opis Algorytmów
+Algorytm Steganografii Audio
+Algorytm Steganografii Obrazu
+Wymagania Systemowe
+1. Wstęp
+Dokumentacja techniczna projektu zawiera szczegółowy opis projektu, jego celów, modułów oraz technicznych aspektów implementacji. Stanowi kompleksowy przewodnik dla zrozumienia kodu projektu.
+
+2. Struktura Projektu
+Struktura katalogów projektu prezentuje się następująco:
+
+css
+Copy code
+Główny Katalog/
+│   - p
+│   - docs
+│   │   - technical_documentation.pdf
+│   │   - user_guide.pdf
+│   - src/
+│   │   __init__.py
+│   │   audio_steganography.py
+│   │   image_steganography.py
+│   │   main.py
+3. Opis Algorytmów
+Algorytm Steganografii Audio
+Algorytm steganografii audio polega na manipulacji najmniej znaczącymi bitami próbek dźwiękowych w celu ukrycia danych. Zawiera funkcje do ukrywania danych w plikach audio (hide_data) oraz odkrywania ukrytych danych z plików audio (reveal_data).
+
+Algorytm Steganografii Obrazu
+Algorytm steganografii obrazu umożliwia osadzenie danych w pikselach obrazu poprzez zmianę ich wartości kolorów. Zawiera funkcje do ukrywania danych w plikach obrazowych (hide_data) oraz odkrywania ukrytych danych z plików obrazowych (reveal_data).
+
+4. Wymagania Systemowe
+Aby uruchomić projekt, konieczne jest spełnienie następujących wymagań systemowych:
+
+Python 3.x
+Wymagane biblioteki: (lista użytych bibliotek w projekcie)

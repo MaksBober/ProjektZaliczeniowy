@@ -1,0 +1,30 @@
+1. Wprowadzenie
+Dokumentacja użytkownika dostarcza informacji na temat korzystania z narzędzi do ukrywania danych w obrazach i dźwiękach. Zawiera instrukcje krok po kroku oraz wyjaśnienie funkcji aplikacji.
+
+2. Instalacja
+Sklonuj repozytorium z projektem.
+Przejdź do katalogu z projektem.
+Uruchom plik main.py za pomocą interpretera Pythona 3.x.
+3. Korzystanie z Aplikacji
+Ukrywanie Danych w Plikach Audio
+Wybierz opcję "Ukrywanie danych w pliku audio" z menu głównego.
+Podaj ścieżkę do pliku audio, w którym chcesz ukryć dane.
+Podaj dane, które chcesz ukryć.
+Podaj nazwę pliku wyjściowego.
+Dane zostaną ukryte w pliku audio.
+Odkrywanie Ukrytych Danych z Plików Audio
+Wybierz opcję "Odkrywanie ukrytych danych z pliku audio" z menu głównego.
+Podaj ścieżkę do pliku audio, z którego chcesz odkryć ukryte dane.
+Ukryte dane zostaną wyświetlone na ekranie.
+Ukrywanie Danych w Plikach Obrazowych
+Wybierz opcję "Ukrywanie danych w pliku obrazowym" z menu głównego.
+Podaj ścieżkę do pliku obrazowego, w którym chcesz ukryć dane.
+Podaj dane, które chcesz ukryć.
+Podaj nazwę pliku wyjściowego.
+Dane zostaną ukryte w pliku obrazowym.
+Odkrywanie Ukrytych Danych z Plików Obrazowych
+Wybierz opcję "Odkrywanie ukrytych danych z pliku obrazowego" z menu głównego.
+Podaj ścieżkę do pliku obrazowego, z którego chcesz odkryć ukryte dane.
+Ukryte dane zostaną wyświetlone na ekranie.
+4. Rozwiązywanie Problemów
+Jeśli napotkasz problemy podczas korzystania z aplikacji, skontaktuj się z administratorem projektu.
